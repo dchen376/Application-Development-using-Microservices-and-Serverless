@@ -43,3 +43,4 @@ postman
 - Making API Requests using **cURL** and **Postman**
 - **CRUD** Operations with Python
 - Documenting and Testing REST API with **Swagger**
+- The **OpenAPI** Specification (OAS) is a standardized format for describing REST APIs.
