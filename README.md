@@ -1,6 +1,7 @@
 # Application-Development-using-Microservices-and-Serverless
 https://www.coursera.org/learn/applications-development-microservices-serverless-openshift
 
+**Monolith** vs **SOA**(Service-Oriented Architecture) vs **Microservices**
 
 **Microservices Anti-Patterns**
 - Don’t build microservices
