@@ -30,3 +30,4 @@ Swagger UI
 **Rest APIs**
 - Creating a HELLO WORLD REST API with Python & **Flask**
 - Making API Requests using **cURL** and **Postman**
+- **CRUD** Operations with Python
