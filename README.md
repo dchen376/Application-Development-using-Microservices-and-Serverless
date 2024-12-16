@@ -22,3 +22,7 @@ https://www.coursera.org/learn/applications-development-microservices-serverless
 10. Dev/Prod Parity - "Keep development, staging, and production as similar as possible."
 11. Logs - "Treat logs as event streams."
 12. Admin Processes - "Run admin/management tasks as one-off processes."
+
+
+Swagger UI
+![image](https://github.com/user-attachments/assets/7ef88be1-da11-454e-98ad-1e48438a7d72)
