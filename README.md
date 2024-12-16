@@ -3,6 +3,12 @@ https://www.coursera.org/learn/applications-development-microservices-serverless
 
 **Monolith** vs **SOA**(Service-Oriented Architecture) vs **Microservices**
 
+**Cloud Computing Service Models**
+- IaaS (infrastructure as a service): virtualized computing resources over internet -> EC2, etc (the provider manages Networking, storage, physical servers)
+- Paas (platform as a Service): a platform to develop, run and manage applications w/o needing infrastructure -> aws elastic beanstalk (the provider manages infrastructure, OS, runtime, middleware)
+- SaaS (software as a service): software applications delivered over the internet -> gmail, slack, salesforce (only need your account and usage)
+- FaaS (Function as a Service): serverless computing model where you write and deploy individual functions -> aws Lambda, google cloud functions (for event-driven tasks like responding HTTP requests, image processing)
+
 **Microservices Anti-Patterns**
 - Don’t build microservices
 - Not taking automation seriously
