@@ -49,7 +49,7 @@ postman
 1. Schema: types, queries, mutations, subscriptions.
 2. Types: scalars, custom object types, enums, input types.
 3. Resolvers: query resolver, mutation resolver, subscription resolver.
-4. Queries![image](https://github.com/user-attachments/assets/50e983ea-a985-4562-b3f7-e37193116920)
+4. Queries ![image](https://github.com/user-attachments/assets/50e983ea-a985-4562-b3f7-e37193116920)
 
 5. Mutations ![image](https://github.com/user-attachments/assets/58f97ae3-66b9-433a-a67b-ed96e5beac0f)
 
