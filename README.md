@@ -45,7 +45,7 @@ postman
 - Documenting and Testing REST API with **Swagger**
 - The **OpenAPI** Specification (OAS) is a standardized format for describing REST APIs.
 
-**GraphQL**
+**GraphQL** (a language-agnostic query language for API, and has one endpoint)
 1. Schema: types, queries, mutations, subscriptions.
 2. Types: scalars, custom object types, enums, input types.
 3. Resolvers: query resolver, mutation resolver, subscription resolver.
@@ -56,3 +56,11 @@ postman
 6. Subscriptions (allow clients to receive real-time updates) 
 7. Execution - GraphQL APIs reply on a runtime to Parse and validate queries against the schema, Delegate query execution to resolvers, Return the results in a predictable format (usually JSON).
 8. Tools: GraphiQL/Playground, Apollo Client/Server. Relay.
+   ![image](https://github.com/user-attachments/assets/16fbcfcc-f92e-4bb4-9162-cfd7bc1b4090)
+   ![image](https://github.com/user-attachments/assets/5a65e3d0-ca86-4d7d-820d-ff1acbd533ad)
+   ![image](https://github.com/user-attachments/assets/3b652bcb-eb35-4179-aefa-ce77b2e4a350)
+   ![image](https://github.com/user-attachments/assets/85eb7a4c-3496-433f-9d07-740465716371)
+
+
+   
+
