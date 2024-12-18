@@ -61,6 +61,9 @@ postman
    ![image](https://github.com/user-attachments/assets/3b652bcb-eb35-4179-aefa-ce77b2e4a350)
    ![image](https://github.com/user-attachments/assets/85eb7a4c-3496-433f-9d07-740465716371)
 
+GraphQL with Postman:
+![image](https://github.com/user-attachments/assets/0029a837-4d93-4a1f-9648-2f0b9d4d7035)
+
 
    
 
