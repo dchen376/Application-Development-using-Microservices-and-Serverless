@@ -84,4 +84,6 @@ optional:
 - **openshift**
 - **istio**
 - **Jenkins**
+- red hat marketplace
+![image](https://github.com/user-attachments/assets/afead29f-f6a3-492d-9ace-2b2de44c5635)
 
