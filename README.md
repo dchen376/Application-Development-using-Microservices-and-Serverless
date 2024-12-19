@@ -73,3 +73,10 @@ GraphQL with Postman:
 - websocket sessions
 - **IBM Cloud Code Engine**:  a fully managed, serverless platform that empowers developers to run containerized applications, batch jobs, and event-driven workloads without needing to manage infrastructure. 
 ![image](https://github.com/user-attachments/assets/57e72cdc-5684-40ac-8d87-52a734d4fcb5)
+
+Deploying the docker image on Code Engine:
+docker build . -t us.icr.io/${SN_ICR_NAMESPACE}/helloworld2
+docker push us.icr.io/${SN_ICR_NAMESPACE}/helloworld2
+ibmcloud ce application create --name helloworld2 --image us.icr.io/${SN_ICR_NAMESPACE}/helloworld2 --registry-secret icr-secret --port 5000
+
+
