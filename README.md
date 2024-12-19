@@ -75,8 +75,8 @@ GraphQL with Postman:
 ![image](https://github.com/user-attachments/assets/57e72cdc-5684-40ac-8d87-52a734d4fcb5)
 
 Deploying the docker image on Code Engine: <br>
-docker build . -t us.icr.io/${SN_ICR_NAMESPACE}/helloworld2
-docker push us.icr.io/${SN_ICR_NAMESPACE}/helloworld2
-ibmcloud ce application create --name helloworld2 --image us.icr.io/${SN_ICR_NAMESPACE}/helloworld2 --registry-secret icr-secret --port 5000
+docker build . -t us.icr.io/${SN_ICR_NAMESPACE}/helloworld2 <br>
+docker push us.icr.io/${SN_ICR_NAMESPACE}/helloworld2 <br>
+ibmcloud ce application create --name helloworld2 --image us.icr.io/${SN_ICR_NAMESPACE}/helloworld2 --registry-secret icr-secret --port 5000 <br>
 
 
