@@ -80,3 +80,8 @@ docker push us.icr.io/${SN_ICR_NAMESPACE}/helloworld2 <br>
 ibmcloud ce application create --name helloworld2 --image us.icr.io/${SN_ICR_NAMESPACE}/helloworld2 --registry-secret icr-secret --port 5000 <br>
 
 
+optional:
+- **openshift**
+- **istio**
+- **Jenkins**
+
